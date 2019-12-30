@@ -11,9 +11,6 @@ def add_character(show, name)
   return BASE_HOA[show]
   
   
-  
-  
-  
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
